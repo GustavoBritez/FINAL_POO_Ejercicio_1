@@ -29,7 +29,7 @@ Crearemos una segunda tabla que muestre Equipos, estos equipos tienen
 - Fecha_Salida
 - Fecha_Compra
 - Valor Compra
-- Valor Final
+- Valor Final ( Cada año dede la compra el equipo pierde un 15% de su valor )
 
 Tendremos una tercera tabla que muestre el Codigo del equipo y que Administrativo lo compro ( Se seleccionara un administrativo y se le asignara un equipo, pero si se selecciona un Operario y quieres agregarle un equipo no se podra)
 
