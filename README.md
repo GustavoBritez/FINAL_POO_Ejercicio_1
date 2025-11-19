@@ -6,7 +6,7 @@ La agenda contiene numeros celulares de Empleados provenientes de Argentina,Buen
 La Clase Empleados debe respetar el encapsulamiento y cada persona debe mostrarse en el DataGridView.
 
 Los atributos seran los sigientes
-|Empleado|
+| Empleado |
 - Apellido
 - Nombre
 - Telefono
