@@ -16,7 +16,7 @@ Esta agenda tendra dos categorias |Administrativo y Operario|
 Los Administrativos tendran un sueldo de 800USD y los Operarios tendran un sueldo de 600USD mensuales.
 Al calculo del sueldo final se le asignara un estimulo del 2% por año trabajado en la empresa.
 
-- Se tendra que crear utilizando LINQ una busqueda incremental de Personas por el apellido
+- Se tendra que crear utilizando LINQ una busqueda incremental de Empleados por el apellido
 - Ordenar Descendentemente la grilla y Ascendentemente por sueldo final y por Nombre
 
 -----------------------------------------------------------------------------------------
