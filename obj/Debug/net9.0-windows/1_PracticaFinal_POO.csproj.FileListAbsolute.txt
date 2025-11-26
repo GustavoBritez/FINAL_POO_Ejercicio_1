@@ -1,0 +1,17 @@
+C:\Users\Navegador\source\repos\GustavoBritez\FINAL_POO_Ejercicio_1\bin\Debug\net9.0-windows\1_PracticaFinal_POO.exe
+C:\Users\Navegador\source\repos\GustavoBritez\FINAL_POO_Ejercicio_1\bin\Debug\net9.0-windows\1_PracticaFinal_POO.deps.json
+C:\Users\Navegador\source\repos\GustavoBritez\FINAL_POO_Ejercicio_1\bin\Debug\net9.0-windows\1_PracticaFinal_POO.runtimeconfig.json
+C:\Users\Navegador\source\repos\GustavoBritez\FINAL_POO_Ejercicio_1\bin\Debug\net9.0-windows\1_PracticaFinal_POO.dll
+C:\Users\Navegador\source\repos\GustavoBritez\FINAL_POO_Ejercicio_1\bin\Debug\net9.0-windows\1_PracticaFinal_POO.pdb
+C:\Users\Navegador\source\repos\GustavoBritez\FINAL_POO_Ejercicio_1\obj\Debug\net9.0-windows\1_PracticaFinal_POO.csproj.GenerateResource.cache
+C:\Users\Navegador\source\repos\GustavoBritez\FINAL_POO_Ejercicio_1\obj\Debug\net9.0-windows\1_PracticaFinal_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navegador\source\repos\GustavoBritez\FINAL_POO_Ejercicio_1\obj\Debug\net9.0-windows\1_PracticaFinal_POO.AssemblyInfoInputs.cache
+C:\Users\Navegador\source\repos\GustavoBritez\FINAL_POO_Ejercicio_1\obj\Debug\net9.0-windows\1_PracticaFinal_POO.AssemblyInfo.cs
+C:\Users\Navegador\source\repos\GustavoBritez\FINAL_POO_Ejercicio_1\obj\Debug\net9.0-windows\1_PracticaFinal_POO.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\GustavoBritez\FINAL_POO_Ejercicio_1\obj\Debug\net9.0-windows\1_PracticaFinal_POO.sourcelink.json
+C:\Users\Navegador\source\repos\GustavoBritez\FINAL_POO_Ejercicio_1\obj\Debug\net9.0-windows\1_PracticaFinal_POO.dll
+C:\Users\Navegador\source\repos\GustavoBritez\FINAL_POO_Ejercicio_1\obj\Debug\net9.0-windows\refint\1_PracticaFinal_POO.dll
+C:\Users\Navegador\source\repos\GustavoBritez\FINAL_POO_Ejercicio_1\obj\Debug\net9.0-windows\1_PracticaFinal_POO.pdb
+C:\Users\Navegador\source\repos\GustavoBritez\FINAL_POO_Ejercicio_1\obj\Debug\net9.0-windows\1_PracticaFinal_POO.genruntimeconfig.cache
+C:\Users\Navegador\source\repos\GustavoBritez\FINAL_POO_Ejercicio_1\obj\Debug\net9.0-windows\ref\1_PracticaFinal_POO.dll
+C:\Users\Navegador\source\repos\GustavoBritez\FINAL_POO_Ejercicio_1\obj\Debug\net9.0-windows\_1_PracticaFinal_POO.BTN_ADD_EQ.resources

@@ -34,7 +34,7 @@ namespace _1_PracticaFinal_POO
             get => this.apellido;
             set
             {
-                this.Apellido = value; OnProperty();
+                this.apellido = value; OnProperty();
             }
         }
         public string Telefono

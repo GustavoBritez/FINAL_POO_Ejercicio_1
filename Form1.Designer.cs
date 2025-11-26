@@ -1,6 +1,6 @@
 ﻿namespace _1_PracticaFinal_POO
 {
-    partial class Form1
+    partial class BTN_ADD_EQ
     {
         /// <summary>
         ///  Required designer variable.
@@ -44,9 +44,14 @@
             checkBox3 = new CheckBox();
             checkBox1 = new CheckBox();
             checkBox2 = new CheckBox();
+            Grilla_Equipos = new DataGridView();
+            button1 = new Button();
+            BTN_ELIMINEQ = new Button();
+            BTN_MODEQ = new Button();
             ((System.ComponentModel.ISupportInitialize)Grilla_Empleado).BeginInit();
             groupBox1.SuspendLayout();
             groupBox2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)Grilla_Equipos).BeginInit();
             SuspendLayout();
             // 
             // Grilla_Empleado
@@ -76,6 +81,7 @@
             BTN_ELIMINAR.TabIndex = 2;
             BTN_ELIMINAR.Text = "Eliminar";
             BTN_ELIMINAR.UseVisualStyleBackColor = true;
+            BTN_ELIMINAR.Click += BTN_ELIMINAR_Click;
             // 
             // BTN_MODIFICAR
             // 
@@ -85,6 +91,7 @@
             BTN_MODIFICAR.TabIndex = 3;
             BTN_MODIFICAR.Text = "Modificar";
             BTN_MODIFICAR.UseVisualStyleBackColor = true;
+            BTN_MODIFICAR.Click += BTN_MODIFICAR_Click;
             // 
             // PICKER
             // 
@@ -207,11 +214,54 @@
             checkBox2.UseVisualStyleBackColor = true;
             checkBox2.MouseClick += checkBox2_MouseClick;
             // 
-            // Form1
+            // Grilla_Equipos
+            // 
+            Grilla_Equipos.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            Grilla_Equipos.Location = new Point(481, 265);
+            Grilla_Equipos.Name = "Grilla_Equipos";
+            Grilla_Equipos.Size = new Size(307, 144);
+            Grilla_Equipos.TabIndex = 12;
+            Grilla_Equipos.CellFormatting += Grilla_Equipos_CellFormatting;
+            // 
+            // button1
+            // 
+            button1.Location = new Point(491, 416);
+            button1.Name = "button1";
+            button1.Size = new Size(75, 23);
+            button1.TabIndex = 13;
+            button1.Text = "Agregar";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // BTN_ELIMINEQ
+            // 
+            BTN_ELIMINEQ.Location = new Point(600, 416);
+            BTN_ELIMINEQ.Name = "BTN_ELIMINEQ";
+            BTN_ELIMINEQ.Size = new Size(75, 23);
+            BTN_ELIMINEQ.TabIndex = 14;
+            BTN_ELIMINEQ.Text = "Eliminar";
+            BTN_ELIMINEQ.UseVisualStyleBackColor = true;
+            BTN_ELIMINEQ.Click += BTN_ELIMINEQ_Click;
+            // 
+            // BTN_MODEQ
+            // 
+            BTN_MODEQ.Location = new Point(700, 416);
+            BTN_MODEQ.Name = "BTN_MODEQ";
+            BTN_MODEQ.Size = new Size(75, 23);
+            BTN_MODEQ.TabIndex = 15;
+            BTN_MODEQ.Text = "Modificar";
+            BTN_MODEQ.UseVisualStyleBackColor = true;
+            // 
+            // BTN_ADD_EQ
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(Grilla_Empleado);
+            Controls.Add(BTN_MODEQ);
+            Controls.Add(BTN_ELIMINEQ);
+            Controls.Add(button1);
+            Controls.Add(Grilla_Equipos);
             Controls.Add(groupBox2);
             Controls.Add(label2);
             Controls.Add(TXT_BUSQUEDA);
@@ -221,14 +271,14 @@
             Controls.Add(BTN_MODIFICAR);
             Controls.Add(BTN_ELIMINAR);
             Controls.Add(BTN_AGREGAR);
-            Controls.Add(Grilla_Empleado);
-            Name = "Form1";
+            Name = "BTN_ADD_EQ";
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)Grilla_Empleado).EndInit();
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             groupBox2.ResumeLayout(false);
             groupBox2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)Grilla_Equipos).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -251,5 +301,9 @@
         private CheckBox checkBox2;
         private CheckBox checkBox3;
         private CheckBox checkBox4;
+        private DataGridView Grilla_Equipos;
+        private Button button1;
+        private Button BTN_ELIMINEQ;
+        private Button BTN_MODEQ;
     }
 }
